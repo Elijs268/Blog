@@ -1,0 +1,76 @@
+body {
+    background-color: #9BE5DC;
+}
+
+#h1{
+    text-align: center;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+#table1{
+    text-decoration: none;
+}
+#p1{
+    text-align: center;
+}
+
+th, td {
+    padding: 15px;
+    border: 1px dashed black;
+  }
+
+
+
+
+.bilde1{
+    width: 500px;
+    height: 500px;
+    background-image: url(manabilde.png);
+    display: inline-block;
+}
+
+
+
+
+.blogs{
+    background-color: teal;
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 300px;
+
+
+}
+.blogs-item{
+    background-color:lightblue ;
+    justify-content: center;
+    
+
+}
+.blogs-item-1{
+    background-image: url(onionsoup.jpg);
+    flex-grow: 1;
+    width: 400px;
+
+}
+.blogs-item-2{
+    flex-grow: 2;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+
+
+}
+
+
+
+*{
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+
+}
+
+
+

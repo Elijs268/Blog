@@ -1,0 +1,36 @@
+body {
+    background-color: lightblue;
+    font-family:Roboto thin;
+  }
+  
+  #title1 {
+    color: purple;
+    text-align: center;
+  }
+  #link1 {
+    width: 1;
+  }
+  
+  #paragraph1 {
+    font-size: 20px;
+    text-align:center;
+  }
+
+  #paragraph2 {
+      color: black;
+      text-align: auto;
+      font-size: 19px;
+  }
+
+  #list1 {
+      text-align:auto;
+      font-size:14;
+  }
+  #list2 {
+      font-size:18px;
+  }
+  #image1 {
+
+      display: block;
+      float: right;
+  }
